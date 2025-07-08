@@ -18,6 +18,8 @@ This repo showcases interactive dashboards and reports built using Power BI, des
 ### 3. GTS Dashboard
 - Sales dashboard for a realtime company.
 
+### 4. Hospital Management Dashboard
+- Sales dashboard for a realtime company.
 ---
 
 ## 🛠️ Tools & Technologies
