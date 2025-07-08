@@ -19,7 +19,7 @@ This repo showcases interactive dashboards and reports built using Power BI, des
 - Sales dashboard for a realtime company.
 
 ### 4. Hospital Management Dashboard
-- Sales dashboard for a realtime company.
+- Appointment dashboard for a dummy hospital.
 ---
 
 ## 🛠️ Tools & Technologies
