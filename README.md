@@ -14,7 +14,7 @@ This repo showcases interactive dashboards and reports built using Power BI, des
 ### 2. Twitter Dashboard
 - Analyze follower growth, engagement patterns, and content performance.
 - Includes classification insights and segment analysis for social media strategy.
-- 
+  
 ### 3. GTS Dashboard
 - Sales dashboard for a realtime company.
 
